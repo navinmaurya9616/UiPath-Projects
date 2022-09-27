@@ -1,0 +1,24 @@
+Hi Team,<br>
+Bot Completed Successfully.<br>
+<br>
+<head>
+<table width="500" border="2">
+<tr>
+<th bgcolor="SkyBlue">Onsite/Offsite</th>
+<th bgcolor="SkyBlue">Category</th>
+<th bgcolor="SkyBlue">State</th>
+</tr>  
+</head>
+<tr>
+<td><total_Onsite></td>
+<td><total_Offsite></td>
+<td><total_Category></td>
+</tr>
+</table>
+<br>
+The total o/c/s are 491
+<br>
+<br>
+Thanks & Regards
+<br>
+Reporting Bot
