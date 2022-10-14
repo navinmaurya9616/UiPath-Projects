@@ -1,0 +1,46 @@
+Hello Barnali,<br>
+<br>
+Bot Has Completed Text Extraction Successfully.<br>
+PFA excel report and summary below.
+<br>
+<head>
+<style>
+table,th,td{
+border :1px solid black;
+)
+</style>
+<table>
+<th bgcolor="tomato">TotalInvoice</th>
+<th bgcolor="tomato">SubTotal</th>
+<th bgcolor="tomato">Invoice</th>
+</tr>
+</head>
+<tr>
+<td>$85.0</td>
+<td>12345</td>
+<td>3337</td>
+</tr>
+<tr>
+<td>$1085.00</td>
+<td>56789</td>
+<td>4567</td>
+</tr>
+<tr>
+<td>$105.0</td>
+<td>87346</td>
+<td>6754</td>
+</tr>
+<tr>
+<td>$1905.00</td>
+<td>12789</td>
+<td>7865</td>
+</tr>
+<tr>
+<td>$5.00</td>
+<td>10001</td>
+<td>8756</td>
+</tr>
+</table>
+<br>
+Regards,<br>
+Text Extraction Bot.
