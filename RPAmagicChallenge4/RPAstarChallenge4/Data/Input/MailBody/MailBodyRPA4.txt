@@ -1,0 +1,54 @@
+Dear Sir/Mam,
+
+The temperature for the city (put the city name) is degree (replace degree with the temperature)
+
+Clothing Suggestions
+0-5 CELSIUS DEGREE
+MATERIALS: (eco) fur; feather and technical fabrics for colder temperatures.
+KEY PIECES: a fur, a shearling coat or a classic duvet. The coat is not warm enaught.
+ACCESSORIES: ankle boots with rubber sole, combat boots and over the knee boots. Do not forget your scarf and hat!
+
+10-15 CELSIUS DEGREE
+MATERIALS: wool or a light duvet is just fine. Itâ€™s a bit early for a fur coat.
+KEY PIECES: this is the moment of the medium weight coat. Alternatively, a fur vest or a poncho.
+ACCESSORIES: this is the ideal time for accessories-lovers: scarves, hats, ankle boots, but also dÃ©colletÃ©.
+
+15-20 CELSIUS DEGREE
+MATERIALS: light wool, leather, waterproof fabrics. Under them, tops and shirts in cotton and other thin fabrics.
+KEY PIECES: the trench coat if it is cloudy; the leather jacket if there is wind. Create your wool vest!
+ACCESSORIES: shoe or ankle boot, you can easily go without socks. We reserve it for the ceremonies.
+
+20-25 CELSIUS DEGREE
+MATERIALS: cotton, jersey, denim. In short, light or mixed fabrics for a variable time.
+KEY PIECES: if the weather is not so good, wear a denim jacket or a trench; if it is sunny, a cardigan or a maxi scarf is better.
+ACCESSORIES: if there is sun, open shoes are fine too; otherwise, sneakers, moccasins or dÃ©colletÃ©.
+
+25-30 CELSIUS DEGREE
+MATERIALS: cotton and other other light fabrics, with short sleeves. Itâ€™s hot even with the bad weather!
+KEY PIECES: a super versatile shirt; a white t-shirt; a silk blouse. Below, cotton trousers or a maxi skirt.
+ACCESSORIES: open sandals, but also moccasins or dÃ©colletÃ©. Do not forget sunglasses!
+
+30-35 CELSIUS DEGREE
+MATERIALS: light fabrics and baggy volumes to stay fresh. The heat has really arrived!
+KEY PIECES: mini or maxi dress. Indoor the air conditioning does not forgive: always bring a cardigan â€¦
+ACCESSORIES: get yourself a nice hat! As for shoes, I highly recommend the open-toe ones!
+
+Best Regards,
+
+#RPASTARSCHALLENGE BOT
+
+***Note: the temperature will determine the clothing suggestion. 
+For example, if the temperature is between 25 - 30, the expected email will be
+
+Dear Sir/Mam,
+
+The temperature for the city Lagos is 28Â°C.
+
+Clothing Suggestions
+MATERIALS: cotton and other other light fabrics, with short sleeves. Itâ€™s hot even with the bad weather!
+KEY PIECES: a super versatile shirt; a white t-shirt; a silk blouse. Below, cotton trousers or a maxi skirt.
+ACCESSORIES: open sandals, but also moccasins or dÃ©colletÃ©. Do not forget sunglasses!
+
+Best Regards,
+
+#RPASTARSCHALLENGE BOT
